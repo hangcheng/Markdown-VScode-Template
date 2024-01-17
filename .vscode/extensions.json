@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "shd101wyy.markdown-preview-enhanced", // Markdown 预览增强
+    "yzhang.markdown-all-in-one", // Markdown 多合一
+    "esbenp.prettier-vscode", // Markdown 格式化
+    "hediet.vscode-drawio", // Draw.io插件
+    "nopeslide.vscode-drawio-plugin-mermaid", // Draw.io插入mermaid的插件
+    "pomdtr.excalidraw-editor", //Excalidraw 插件
+    "jebbs.plantuml", //PlantUML插件
+    "bierner.markdown-mermaid", //Mermaid 插件
+    "bpruitt-goddard.mermaid-markdown-syntax-highlighting" // Mermaid 高亮插件
+  ]
+}

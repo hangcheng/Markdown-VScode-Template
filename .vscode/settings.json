@@ -1,0 +1,14 @@
+{
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.editorAssociations": {
+        "*.drawio.png": "hediet.vscode-drawio-text",
+        "*.drawio.svg": "hediet.vscode-drawio-text",
+        "*.excalidraw.png": "editor.excalidraw",
+        "*.excalidraw.svg": "editor.excalidraw",
+    },
+    "excalidraw.theme": "dark",
+    "excalidraw.language": "zh-CN",
+    "markdown-preview-enhanced.plantumlServer": "https://kroki.io/plantuml/svg/",
+}
